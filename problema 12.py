@@ -1,0 +1,5 @@
+a=int(input("Introduceti nr de oua intro zi de la prima gaina "))
+b=int(input("Introduceti nr de oua intro zi de la a doua gaina "))
+c=int(input("Introduceti nr de oua intro zi de la a treia gaina "))
+d=int(input("Introduceti nr de oua intro zi de la a patra gaina "))
+print("nr de oua la sfirsitul saptaminii", (a+b+c+d)*7)
